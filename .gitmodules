@@ -1,0 +1,9 @@
+[submodule "tutor-python"]
+	path = tutor-python
+	url = https://github.com/amiradeu/tutor-python.git
+[submodule "tutor-java"]
+	path = tutor-java
+	url = https://github.com/amiradeu/tutor-java.git
+[submodule "tutor-c"]
+	path = tutor-c
+	url = https://github.com/amiradeu/tutor-c.git
