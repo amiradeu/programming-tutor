@@ -7,3 +7,6 @@
 [submodule "tutor-c"]
 	path = tutor-c
 	url = https://github.com/amiradeu/tutor-c.git
+[submodule "tutor-web-dev"]
+	path = tutor-web-dev
+	url = https://github.com/amiradeu/tutor-web-dev.git
